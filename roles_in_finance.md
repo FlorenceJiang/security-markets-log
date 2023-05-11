@@ -20,14 +20,12 @@ IMO, other than bankers and sales, all other functionalities could be replaced b
 
 ## Buyside
 
-Buyside are just capital willing to offer
+Buyside funds are capitals willing to own or finance companies. Pre IPO / ICO stages, it's all VC game.
 
-1. Hedge Funds: Active Investment. More aggressive, and less regulated. Categories:
-    - By investment approach and underlying strategy: fundamental or quant or systematic.
-        - Market-neutral funds aim to eliminate market risk by maintaining equal long and short positions in a specific sector, industry, or index, including, fixed Income Arbitrage
-        - Global macro hedge funds focus on making bets on macroeconomic trends, such as interest rates, inflation, currency movements, and political events. etc. Bridgewater, soros etc.
-        - Systematic and automated, often trading at high frequencies or using machine learning techniques to refine their strategies.
-    - By asset class: long/short equities, FIX, REPO, futures etc.
-2. Asset Managers: mainly passive. could be active too. pension funds etc.
-3. Ventrue Capital: by different sectors.
-4. Private Equity: They buy or finance small, growing companies.
+In public markets, you could categorized funds by 1) source of capital, PE/Pension funds etc 2) investment obejectives. like growth, income, balanced, EST etc. 3) asset class: equity, FIX, real estate, commodity, or a mix etc. 4) investment approach: active (hedge funds), passive (Asset managers, ETF, index funds)
+
+- Hedge Funds: Active Investment. Alpha seeking. More aggressive, and less regulated. Asset class varies. By investment approach and underlying strategy:
+    - fundamental: 1) global macro hedge funds focus on making bets on macroeconomic trends, such as interest rates, inflation, currency movements, and political events. etc. Bridgewater, soros etc. 2) could also be event-driven. like market-neutral funds aim to eliminate market risk by maintaining equal long and short positions in a specific sector, industry, or index, including, fixed Income Arbitrage.
+    - systematic: HFT. often trading at high frequencies or using machine learning techniques to refine their strategies.
+    These days, all funds use a mixture of both fundamental and quant methods.
+- Asset Managers: Beta seeking. Less aggressive. Index or ETF.
